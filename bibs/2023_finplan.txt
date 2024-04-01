@@ -1,0 +1,6 @@
+@article{lakkaraju2023can,
+  title={Can LLMs be Good Financial Advisors?: An Initial Study in Personal Decision Making for Optimized Outcomes},
+  author={Lakkaraju, Kausik and Vuruma, Sai Krishna Revanth and Pallagani, Vishal and Muppasani, Bharath and Srivastava, Biplav},
+  journal={FinPlan 2023},
+  pages={51}
+}

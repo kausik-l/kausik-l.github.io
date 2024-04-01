@@ -1,0 +1,9 @@
+@inproceedings{lakkaraju2022allure,
+  title={Allure: A multi-modal guided environment for helping children learn to solve a rubik’s cube with automatic solving and interactive explanations},
+  author={Lakkaraju, Kausik and Hassan, Thahimum and Khandelwal, Vedant and Singh, Prathamjeet and Bradley, Cassidy and Shah, Ronak and Agostinelli, Forest and Srivastava, Biplav and Wu, Dezhi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={11},
+  pages={13185--13187},
+  year={2022}
+}

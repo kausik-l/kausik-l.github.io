@@ -1,0 +1,5 @@
+@article{panta2022explainable,
+  title={Explainable Pathfinding for Inscrutable Planners with Inductive Logic Programming},
+  author={Panta, Rojina and Agostinelli, Forest and Khandelwal, Vedant and Srivastava, Biplav and Muppasani, Bharath Chandra and Lakkaraju, Kausik and Wu, Dezhi},
+  year={2022}
+}

@@ -1,0 +1,8 @@
+@inproceedings{lakkaraju2022data,
+  title={Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data},
+  author={Lakkaraju, Kausik and Palaiya, Vinamra and Paladi, Sai Teja and Appajigowda, Chinmayi and Srivastava, Biplav and Johri, Lokesh},
+  booktitle={International Conference on Database Systems for Advanced Applications},
+  pages={527--531},
+  year={2022},
+  organization={Springer}
+}

@@ -1,0 +1,9 @@
+@article{muppasani2023safe,
+  title={On safe and usable chatbots for promoting voter participation},
+  author={Muppasani, Bharath and Pallagani, Vishal and Lakkaraju, Kausik and Lei, Shuge and Srivastava, Biplav and Robertson, Brett and Hickerson, Andrea and Narayanan, Vignesh},
+  journal={AI Magazine},
+  volume={44},
+  number={3},
+  pages={240--247},
+  year={2023}
+}

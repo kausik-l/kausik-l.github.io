@@ -1,0 +1,7 @@
+@inproceedings{lakkaraju2022my,
+  title={Why is my system biased?: Rating of ai systems through a causal lens},
+  author={Lakkaraju, Kausik},
+  booktitle={Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={902--902},
+  year={2022}
+}

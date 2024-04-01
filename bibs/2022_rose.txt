@@ -1,0 +1,7 @@
+@article{mundada2022rose,
+  title={ROSE: Tool and Data ResOurces to Explore the Instability of SEntiment Analysis Systems},
+  author={MUNDADA, GAURAV and LAKKARAJU, KAUSIK and SRIVASTAVA, BIPLAV},
+  journal={Research Gate},
+  volume={2},
+  year={2022}
+}

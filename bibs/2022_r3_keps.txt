@@ -1,0 +1,5 @@
+@article{ramamurthy2022rich,
+  title={A Rich Recipe Representation as Plan to Support Expressive Multi-Modal Queries on Recipe Content and Preparation Process},
+  author={Ramamurthy, Vishal Pallagani Priyadharsini and Venkataramanan, Vedant Khandelwal Revathy and Lakkaraju, Kausik and Aakur, Sathyanarayanan N and Srivastava, Biplav},
+  year={2022}
+}
