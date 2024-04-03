@@ -1,0 +1,7 @@
+@inproceedings{lakkaraju2023llms,
+  title={LLMs for Financial Advisement: A Fairness and Efficacy Study in Personal Decision Making},
+  author={Lakkaraju, Kausik and Jones, Sara E and Vuruma, Sai Krishna Revanth and Pallagani, Vishal and Muppasani, Bharath C and Srivastava, Biplav},
+  booktitle={Proceedings of the Fourth ACM International Conference on AI in Finance},
+  pages={100--107},
+  year={2023}
+}
