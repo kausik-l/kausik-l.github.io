@@ -1,0 +1,8 @@
+@article{srivastava2023advances,
+  title={Advances in automatically rating the trustworthiness of text processing services},
+  author={Srivastava, Biplav and Lakkaraju, Kausik and Bernagozzi, Mariana and Valtorta, Marco},
+  journal={AI and Ethics},
+  pages={1--9},
+  year={2023},
+  publisher={Springer}
+}

@@ -1,0 +1,11 @@
+@INPROCEEDINGS{10431645,
+  author={Lakkaraju, Kausik and Gupta, Aniket and Srivastava, Biplav and Valtorta, Marco and Wu, Dezhi},
+  booktitle={2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)}, 
+  title={The Effect of Human v/s Synthetic Test Data and Round-Tripping on Assessment of Sentiment Analysis Systems for Bias}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={380-389},
+  keywords={Sentiment analysis;Training data;Chatbots;Security;Synthetic aperture sonar;Synthetic data;Testing;bias;round-trip translation;causal models},
+  doi={10.1109/TPS-ISA58951.2023.00053}
+}

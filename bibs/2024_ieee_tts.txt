@@ -1,0 +1,7 @@
+@article{lakkaraju2024rating,
+  title={Rating sentiment analysis systems for bias through a causal lens},
+  author={Lakkaraju, Kausik and Srivastava, Biplav and Valtorta, Marco},
+  journal={IEEE Transactions on Technology and Society},
+  year={2024},
+  publisher={IEEE}
+}

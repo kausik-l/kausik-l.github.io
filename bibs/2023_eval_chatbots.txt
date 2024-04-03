@@ -1,0 +1,6 @@
+@article{srivastava2023evaluating,
+  title={Evaluating Chatbots to Promote Users' Trust--Practices and Open Problems},
+  author={Srivastava, Biplav and Lakkaraju, Kausik and Koppel, Tarmo and Narayanan, Vignesh and Kundu, Ashish and Joshi, Sachindra},
+  journal={arXiv preprint arXiv:2309.05680},
+  year={2023}
+}
