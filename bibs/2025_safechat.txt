@@ -1,0 +1,6 @@
+@article{srivastava2025safechat,
+  title={SafeChat: A Framework for Building Trustworthy Collaborative Assistants and a Case Study of its Usefulness},
+  author={Srivastava, Biplav and Lakkaraju, Kausik and Gupta, Nitin and Nagpal, Vansh and Muppasani, Bharath C and Jones, Sara E},
+  journal={arXiv preprint arXiv:2504.07995},
+  year={2025}
+}

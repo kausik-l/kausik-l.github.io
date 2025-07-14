@@ -1,0 +1,5 @@
+@article{muppasani2025electionbot,
+  title={ElectionBot-SC: A Tool to Understand and Compare Chatbot Behavior for Safe Election Information in South Carolina},
+  author={Muppasani, Bharath and Lakkaraju, Kausik and Gupta, Nitin and Nagpal, Vansh and Jones, Sara and Srivastava, Biplav},
+  year={2025}
+}

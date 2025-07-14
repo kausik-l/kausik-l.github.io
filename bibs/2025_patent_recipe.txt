@@ -1,0 +1,8 @@
+@misc{srivastava2025multimodal,
+  title={Multimodal retrieval and execution monitoring using rich recipe representation},
+  author={Srivastava, Biplav and Pallagani, Vishal and Venka, Revathy Chandrasekaran and Khandelwal, Vedant and Lakkaraju, Kausik},
+  year={2025},
+  month=jun # "~17",
+  publisher={Google Patents},
+  note={US Patent 12,332,873}
+}
