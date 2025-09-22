@@ -1,0 +1,6 @@
+@article{lakkaraju2025holistic,
+  title={Holistic Explainable AI (H-XAI): Extending Transparency Beyond Developers in AI-Driven Decision Making},
+  author={Lakkaraju, Kausik and Valluru, Siva Likitha and Srivastava, Biplav},
+  journal={arXiv preprint arXiv:2508.05792},
+  year={2025}
+}

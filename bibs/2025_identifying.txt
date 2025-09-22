@@ -1,0 +1,6 @@
+@article{widener2025identifying,
+  title={On Identifying Why and When Foundation Models Perform Well on Time-Series Forecasting Using Automated Explanations and Rating},
+  author={Widener, Michael and Lakkaraju, Kausik and Aydin, John and Srivastava, Biplav},
+  journal={arXiv preprint arXiv:2508.20437},
+  year={2025}
+}
