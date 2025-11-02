@@ -1,0 +1,14 @@
+@inproceedings{lakkaraju2025rating,
+  title     = {Rating AI Models for Robustness Through a Causal Lens},
+  author    = {Lakkaraju, Kausik},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {10975--10976},
+  year      = {2025},
+  month     = {8},
+  note      = {Doctoral Consortium},
+  doi       = {10.24963/ijcai.2025/1242},
+  url       = {https://doi.org/10.24963/ijcai.2025/1242},
+}

@@ -1,0 +1,8 @@
+@incollection{lakkaraju2025dataset,
+  title={A Dataset and Visualization of Generalizable Election-Related Questions Compiled from Leading Global Democracies for Building AI-Enabled Tools},
+  author={Lakkaraju, Kausik and Muppasani, Bharath and Jones, Sara Elizabeth and Srivastava, Biplav},
+  booktitle={PROMISE--PROMoting AI’s Safe usage for Elections},
+  pages={105--113},
+  year={2025},
+  publisher={Springer}
+}

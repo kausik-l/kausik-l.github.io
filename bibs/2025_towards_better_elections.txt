@@ -1,0 +1,8 @@
+@incollection{ayisi2025towards,
+  title={Towards Better Elections: A Discussion About the United Kingdom and Africa},
+  author={Ayisi, Aurelia and Deepak, P and Smith, Marquita and Srivastava, Biplav and Nikolich, Anita and Hickerson, Andrea and Koppel, Tarmo and Lakkaraju, Kausik},
+  booktitle={PROMISE--PROMoting AI’s Safe usage for Elections},
+  pages={197--207},
+  year={2025},
+  publisher={Springer}
+}

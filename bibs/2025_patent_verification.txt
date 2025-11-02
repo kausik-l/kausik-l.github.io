@@ -1,0 +1,8 @@
+@misc{srivastava2025generating,
+  title={Generating trust certificates for ai with black and whitebox verification},
+  author={Srivastava, Biplav and Lakkaraju, Kausik and Valluru, Siva Likitha and Vallorta, Marco},
+  year={2025},
+  month=sep # "~25",
+  publisher={Google Patents},
+  note={US Patent App. 18/908,430}
+}
