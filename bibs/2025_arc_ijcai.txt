@@ -1,0 +1,5 @@
+@inproceedings{lakkaraju2025arc,
+  title={ARC: A Tool to Rate AI Models for Robustness Through a Causal Lens},
+  author={Lakkaraju, Kausik and Valluru, Siva Likitha and Srivastava, Biplav and Valtorta, Marco},
+  booktitle={IJCAI 2025 Workshop on User-Aligned Assessment of Adaptive AI Systems}
+}
