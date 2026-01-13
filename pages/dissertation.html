@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     
+    
     <script>
         tailwind.config = {
             theme: {
@@ -84,6 +85,7 @@
                 <div class="hidden md:flex space-x-8 items-center">
                     <a href="#thesis" class="text-sm font-medium text-gray-500 hover:text-accent transition-colors">Thesis Statement</a>
                     <a href="#questions" class="text-sm font-medium text-gray-500 hover:text-accent transition-colors">Research Questions</a>
+                    <a href="#slides" class="text-sm font-medium text-gray-500 hover:text-accent transition-colors">Proposal Slides</a>
                     <a href="#publications" class="text-sm font-medium text-gray-500 hover:text-accent transition-colors">Relevant Publications</a>
                     <a href="#committee" class="text-sm font-medium text-gray-500 hover:text-accent transition-colors">Committee</a>
                     <a href="#gallery" class="text-sm font-medium text-gray-500 hover:text-accent transition-colors">Gallery</a>
@@ -104,6 +106,7 @@
             <div class="px-4 pt-2 pb-6 space-y-1 shadow-xl">
                 <a href="#thesis" class="block px-3 py-3 text-base font-medium text-gray-600 hover:text-accent hover:bg-gray-50 rounded-md">Thesis</a>
                 <a href="#questions" class="block px-3 py-3 text-base font-medium text-gray-600 hover:text-accent hover:bg-gray-50 rounded-md">Research Questions</a>
+                <a href="#slides" class="block px-3 py-3 text-base font-medium text-gray-600 hover:text-accent hover:bg-gray-50 rounded-md">Proposal Slides</a>
                 <a href="#publications" class="block px-3 py-3 text-base font-medium text-gray-600 hover:text-accent hover:bg-gray-50 rounded-md">Publications</a>
                 <a href="#committee" class="block px-3 py-3 text-base font-medium text-gray-600 hover:text-accent hover:bg-gray-50 rounded-md">Committee</a>
                 <a href="#gallery" class="block px-3 py-3 text-base font-medium text-gray-600 hover:text-accent hover:bg-gray-50 rounded-md">Gallery</a>
@@ -265,6 +268,45 @@
     </section>
 
 
+    <section id="slides" class="py-24 bg-white border-b border-gray-100">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="font-serif text-3xl font-bold text-academic-900 mb-4">Dissertation Proposal</h2>
+                <p class="text-gray-500">Presentation Deck (Scroll to navigate or use toolbar)</p>
+            </div>
+
+            <div class="max-w-5xl mx-auto">
+                <div class="relative w-full aspect-video rounded-2xl shadow-2xl overflow-hidden bg-gray-900 border-4 border-gray-900">
+                    
+                    <!-- 
+                        INSTRUCTIONS FOR USER:
+                        1. Save your PowerPoint as a PDF (e.g., proposal_slides.pdf).
+                        2. Place the file in the same folder as this HTML file.
+                        3. Update the 'src' below to: src="proposal_slides.pdf"
+                    -->
+                    
+                    <iframe 
+                        src="../images/proposal_slides.pdf" 
+                        class="w-full h-full" 
+                        frameborder="0"
+                        title="Dissertation Proposal Slides">
+                    </iframe>
+
+                    <!-- Fallback message in case browser doesn't support embedding -->
+                    <div class="absolute inset-0 -z-10 flex items-center justify-center text-white">
+                        <p>Loading Slides...</p>
+                    </div>
+                </div>
+                
+                <div class="mt-4 flex justify-center gap-4 text-sm text-gray-500">
+                    <span class="flex items-center"><i class="fas fa-mouse-pointer mr-2"></i> Scroll to change pages</span>
+                    <span class="hidden md:flex items-center">|</span>
+                    <a href="#" class="flex items-center hover:text-accent"><i class="fas fa-download mr-2"></i> Download PDF</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
 
 
@@ -276,7 +318,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <div class="text-center group">
                     <div class="w-32 h-32 mx-auto bg-gray-200 rounded-full mb-4 overflow-hidden relative shadow-lg">
-                            <img src="" 
+                            <img src="../images/biplav.jpeg" 
                                 alt="Major Professor" 
                                 class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
                     </div>
@@ -288,7 +330,7 @@
                 <!-- Chair -->
                 <div class="text-center group">
                     <div class="w-32 h-32 mx-auto bg-gray-200 rounded-full mb-4 overflow-hidden relative shadow-lg">
-                         <img src="" 
+                         <img src="../images/marco.jpg" 
                               alt="Committee Chair" 
                               class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
                     </div>
@@ -299,7 +341,7 @@
 
                 <div class="text-center group">
                     <div class="w-32 h-32 mx-auto bg-gray-200 rounded-full mb-4 overflow-hidden relative shadow-lg">
-                         <img src="" 
+                         <img src="../images/dezhi.webp" 
                               alt="Committee Member" 
                               class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
                     </div>
@@ -310,7 +352,7 @@
 
                 <div class="text-center group">
                     <div class="w-32 h-32 mx-auto bg-gray-200 rounded-full mb-4 overflow-hidden relative shadow-lg">
-                         <img src="" 
+                         <img src="../images/vignesh.jpg" 
                               alt="Committee Member" 
                               class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
                     </div>
@@ -321,7 +363,7 @@
 
                 <div class="text-center group">
                     <div class="w-32 h-32 mx-auto bg-gray-200 rounded-full mb-4 overflow-hidden relative shadow-lg">
-                         <img src="" 
+                         <img src="../images/sunandita.jpeg" 
                               alt="Committee Member" 
                               class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500">
                     </div>
